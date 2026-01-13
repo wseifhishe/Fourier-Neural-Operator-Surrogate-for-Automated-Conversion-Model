@@ -2,7 +2,10 @@
 
 ![Pipeline overview](assets/pipeline.png)
 
-This repository is a **public, runnable demo** that reproduces our end-to-end pipeline using **synthetic (dummy) complex transfer functions**.
+
+*Figure: End-to-end demo pipeline using synthetic complex transfer functions (X:45 → Y:24).*
+
+This repository reproduces the full pipeline (data format, phase augmentation, training, and UQ reporting) using synthetic dummy transfer functions that match the tensor shapes used in the paper. It is intended for pipeline/implementation verification rather than reproducing proprietary FE results.
 
 You only need the following 5 files in the GitHub repository:
 - README.md
