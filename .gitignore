@@ -1,0 +1,12 @@
+# generated data / outputs
+data/
+outputs/
+
+# python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+.vscode/
