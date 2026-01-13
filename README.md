@@ -11,7 +11,7 @@ You only need the following 5 files in the GitHub repository:
 
 ## Installation
 ```bash
-pip install numpy torch
+pip install -r requirements.txt
 ```
 
 ## Run
